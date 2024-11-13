@@ -56,8 +56,8 @@
 ### Webdev
 ![My Skills](https://skillicons.dev/icons?i=html,css,php)
 
-### Modeling software
-![My Skills](https://skillicons.dev/icons?i=canva,figma)
+### Softwares
+![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudiocode)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
