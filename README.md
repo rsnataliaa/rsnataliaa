@@ -1,50 +1,44 @@
 ### Hey 👋
 <p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rsnataliaa.rsnataliaa"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rsnataliaa.rsnataliaa"/>
 
  [![wakatime](https://wakatime.com/badge/user/018e79a4-5a55-41fb-8926-35feb2864e7a.svg)](https://wakatime.com/@018e79a4-5a55-41fb-8926-35feb2864e7a)
 </p>              
 
-## Developer
+## Student in Computer Science (BUT)
 
-- 🔭 I’m currently working on web projects
-- 🌱 I’m currently learning computer science
-- ✉️ You can contact me at [thdev.web@gmail.com](mailto:thdev.web@gmail.com)
-- 🌍 I'm based in South of France
-  
-Portfolio: [https://thdev.vercel.app](https://thdev.vercel.app)
-<br>
-GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677616242)
+  📡 I specialize in administration, management and exploitation of data
+  🌍 I'm based in South of France
 
 ## Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=discord&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rsnataliaa&theme=discord&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=discord_old_blurple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnataliaa&show_icons=true&theme=discord_old_blurple)
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&border=3" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rsnataliaa&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&border=3" alt="streak graph"  />
 </div>
 &nbsp;
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsnataliaa&layout=compact&theme=discord_old_blurple)](https://github.com/yushi1007)
 
 </div>
 
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rsnataliaa&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -53,18 +47,16 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 ## Skills 
 
 ### Programming
-![script-skills](https://skillicons.dev/icons?i=python,php)
-
-![dev-skills](https://skillicons.dev/icons?i=java,arduino,flutter)
+![script-skills](https://skillicons.dev/icons?i=python,java,c,ada)
 
 ### Database
-![My Skills](https://skillicons.dev/icons?i=mysql,firebase)
+![My Skills](https://skillicons.dev/icons?i=mysql)
 
 ### Webdev
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,javascript,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,php)
 
 ### Modeling software
-![My Skills](https://skillicons.dev/icons?i=ae,ps,figma,blender)
+![My Skills](https://skillicons.dev/icons?i=canva,figma)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
