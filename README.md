@@ -57,7 +57,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,php)
 
 ### Softwares
-![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,windev,beekeeper)
+![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
