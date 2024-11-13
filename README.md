@@ -9,6 +9,7 @@
 ## Student in Computer Science (BUT)
 
   📡 I specialize in administration, management and exploitation of data
+  <br>
   🌍 I'm based in South of France
 
 ## Stats
