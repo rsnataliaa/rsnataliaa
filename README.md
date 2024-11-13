@@ -11,6 +11,9 @@
   📡 I specialize in administration, management and exploitation of data
   🌍 I'm based in South of France
 
+ <a href="https://www.linkedin.com/in/natalia-ros-/">
+ ![My Skills](https://skillicons.dev/icons?i=linkedin)
+ </a>
 ## Stats
 
 <div align="center">
